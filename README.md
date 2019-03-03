@@ -4,4 +4,4 @@
 
 ## The app utilizes node.js and express to handle the back end components, and bootstrap to style the front end.
 
-## The app is deployed on Heroku [heroku]( https://tranquil-sea-62186.herokuapp.com/)
+## The app is deployed on Heroku [here]( https://tranquil-sea-62186.herokuapp.com/)
